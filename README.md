@@ -1,2 +1,3 @@
 # Face-Recognition-LBPH
- Face Detection using Local Binary Patterns Histograms (LBPH)
+ Face Recognition using Local Binary Patterns Histograms (LBPH) with OpenCV, and Streamlit
+ 
